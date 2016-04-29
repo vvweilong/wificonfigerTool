@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/zhuxiaolong/workplace/2/hiflyingiotsandroidsmartlink/src/main/res/values/hiflying_smartlinker_strings.xml -->
+    <eat-comment/>
+    <string name="hiflying_smartlinker_completed">SmartLink completed</string>
+    <string formatted="false" name="hiflying_smartlinker_new_module_found">New smart linked module: Mac-%s Ip-%s</string>
+    <string name="hiflying_smartlinker_no_wifi_connectivity">No Wifi Connectivity</string>
+    <string name="hiflying_smartlinker_password">Password:</string>
+    <string name="hiflying_smartlinker_ssid">SSID:</string>
+    <string name="hiflying_smartlinker_start">Start</string>
+    <string name="hiflying_smartlinker_timeout">Time Out!</string>
+    <string name="hiflying_smartlinker_waiting">Waiting…</string>
+</resources>

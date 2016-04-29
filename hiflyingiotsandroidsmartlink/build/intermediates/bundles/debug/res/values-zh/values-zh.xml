@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/zhuxiaolong/workplace/2/hiflyingiotsandroidsmartlink/src/main/res/values-zh/hiflying_smartlinker_strings.xml -->
+    <eat-comment/>
+    <string name="hiflying_smartlinker_completed">SmartLink 完成</string>
+    <string formatted="false" name="hiflying_smartlinker_new_module_found">发现新模块: Mac-%s Ip-%s</string>
+    <string name="hiflying_smartlinker_no_wifi_connectivity">没有Wifi连接</string>
+    <string name="hiflying_smartlinker_password">密码:</string>
+    <string name="hiflying_smartlinker_ssid">SSID:</string>
+    <string name="hiflying_smartlinker_start">开始</string>
+    <string name="hiflying_smartlinker_timeout">配置超时!</string>
+    <string name="hiflying_smartlinker_waiting">请稍后…</string>
+</resources>
